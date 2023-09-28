@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Data Scientist with expertise in climate data analysis, specializing in satellite remote sensing and oceanography. I'm passionate about using data-driven approaches with Python and machine learning to solve real-world challenges
 <!--
 **arunrajks/arunrajks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
